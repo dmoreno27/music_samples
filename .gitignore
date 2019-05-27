@@ -1,4 +1,7 @@
 *api_key.py
+working_files/*
+working_files/
+*working_files*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
